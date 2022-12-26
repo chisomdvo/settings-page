@@ -1,12 +1,12 @@
 /* eslint-disable no-unused-vars */
 /* eslint-disable jsx-a11y/anchor-is-valid */
-import picture1 from "./picture1.png";
 import avatar from "./avatar.png";
 import avatar1 from "./avatar1.png";
 import avatar2 from "./avatar2.png";
 import avatar3 from "./avatar3.png";
 import avatar4 from "./avatar4.png";
 import avatar5 from "./avatar5.png";
+import picture1 from "./picture1.png";
 
 const projects = [
   {
